@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Huqariq</string>
+    <string name="close_sesion">Salir</string>
+    <string name="textBtnFaceLogin">ENTRAR CON FACEBOOK</string>
+
+    <string name="facebook_app_id">2153291008247539</string>
+    <string name="fb_login_protocol_scheme">fb2153291008247539</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_app_login">Quechua App</string>
+    <string name="label_correo_electronico">Correo Electrónico</string>
+    <string name="label_pass">Contraseña</string>
+    <string name="button_Login_in">Entrar</string>
+
+    <string name="mensaje_no_tiene_cuenta">¿No tiene cuenta? Registrese</string>
+
+    <string name="edit_text_hint_correo_electronico">Correo Electrónico</string>
+    <string name="edit_text_hint_correo_contrasenia">Contraseña</string>
+    <string name="edit_text_hint_numero_documento">Número de Documento</string>
+    <string name="edit_text_hint_numero_telefono">Teléfono</string>
+    <string name="et_hint_escribe">Escribe para empezar ...</string>
+    <string name="registro_message_ya_tienes_cuenta">¿Ya tiene cuenta? Entrar</string>
+
+
+    <string name="registro_message_error_confirme_contrasena">Las contraseñas no coinciden</string>
+    <string name="registro_message_error_ingrese_correo_electronico">Por favor ingrese un correo electrónico</string>
+    <string name="registro_message_error_correo_electronico_invalido">Correo electrónico inválido</string>
+    <string name="registro_message_error_ingrese_contrasena_usuario">Ingrese una contraseña</string>
+    <string name="registro_message_error_mensaje_contribuyente_nulo">Usted no es contribuyente</string>
+    <string name="registro_message_error_ingrese_apellido_paterno">Ingrese apellido paterno</string>
+    <string name="registro_message_error_ingrese_apellido_materno">Ingrese apellido materno</string>
+    <string name="registro_message_error_ingrese_nombres">Ingrese nombres</string>
+    <string name="registro_message_error_formato_dni">Formato de DNI incorrecto</string>
+    <string name="registro_message_error_formato_phone">Formato de Telefono incorrecto</string>
+    <string name="message_ya_registrado">ya registrado</string>
+    <string name="registro_message_error_campo_vacio">No puede dejar este campo vacío</string>
+    <string name="registro_message_error_correo_anterior">Correo registrado anteriormente</string>
+    <string name="message_fail_login">Login incorrecto</string>
+    <!-- handling errors -->
+    <string name="generic_server_down">El servidor no está disponible en este momento, por favor inténtelo otra vez en unos minutos</string>
+    <string name="no_internet">No se encuentra conectado a internet, por favor revise su conexión y vuelva a intentarlo.</string>
+    <string name="generic_error">Lo sentimos no hemos podido realizar su petición. Por favor inténtelo otra vez en unos minutos</string>
+    <string name="login_facebook_error">Lo sentimos no hemos podido crear su cuenta usando Facebook. Por favor inténtelo otra vez en unos minutos</string>
+
+
+</resources>

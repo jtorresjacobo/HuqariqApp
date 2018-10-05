@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00a7a3</color>
+    <color name="colorPrimaryDark">#1a9e9f</color>
+    <color name="colorAccent">#1a9e9f</color>
+    <color name="colorAccents">#F79521</color>
+
+
+
+
+    <color name="alfBoxLogin">#ddffffff</color>
+
+
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#CCCCCC</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="light_lead">#f3f3f3</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#020224</color>
+    <color name="blue_face">#576ea5</color>
+    <color name="red">#FF0000</color>
+    <color name="red_google">#e02f2f</color>
+    <color name="ligthblue_twitter">#55acee</color>
+    <color name="franja_titulo">#efefef</color>
+    <color name="configuracion_background">#efefef</color>
+    <color name="background_activity_with_actionbar">#FFFFFF</color>
+    <color name="line_active_pasarella">#ffffff</color>
+    <color name="color_text_inactive_step">#ffb5b2</color>
+    <color name="color_text_check">#969696</color>
+    <color name="color_box_cantidad_canasta">#f3f3f3</color>
+</resources>

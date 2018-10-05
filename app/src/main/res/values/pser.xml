@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+     <string name="ubas">http://18.223.170.70:5000/</string>
+       <string name="ub">AKIAJS5TSKXU7PQ</string>
+       <string name="pb">Z7qISs+G8uAVF5IjD/YgJrLtS5t5hwbgO</string>
+    <string name="base_urlimage"></string>
+
+
+
+    <string name="autorizacion">Authorization</string>
+    <string name="codigoAutorizacion">Basic QUtJQUpTNVRTS1hVN1BROlo3cUlTcytHOHVBVkY1SWpEL1lnSnJMdFM1dDVod2JnTw==</string>
+    <string name="tipoContenido">Content-Type</string>
+    <string name="tipoJson">application/json</string>
+    <!-- FIN PARAMETROS V2-->
+
+
+</resources>
