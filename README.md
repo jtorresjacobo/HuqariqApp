@@ -3,6 +3,10 @@
 
 HuqariqApp is an open source Record voice app for Android featuring a full online mode and offline. It can be using like recollector of voice for create corpora.
 
+![screenshot](images/1.jpg)
+
+
+
 
 <a id="top"></a>
 * [Overview](#overview)
